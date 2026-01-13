@@ -15,4 +15,4 @@
 - Data visualization best practices
 
 📄 **Certificate:** 
-[View Certificate](./Power_BI/Power_BI_Micro_Course_Certificate.pdf)
+[View Certificate](https://github.com/vishal5695/Professional_Certificate/blob/main/Power_BI_Certificate.pdf)
