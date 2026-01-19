@@ -16,3 +16,17 @@
 
 📄 **Certificate:** 
 [View Certificate](https://github.com/vishal5695/Professional_Certificate/blob/main/Power_BI_Certificate.pdf)
+
+---- 
+
+
+### Data Analyst Skill Path
+**Issued by:** Udemy 
+**Certified To:** Vishal Raj  
+**Completion Date:** May 8, 2025 
+
+
+
+
+📄 **Certificate:**
+[View Certificate](https://github.com/vishal5695/Professional_Certificate/blob/main/Udemy%20Certificate.pdf)
