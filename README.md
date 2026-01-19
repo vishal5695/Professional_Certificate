@@ -21,7 +21,7 @@
 
 
 ### Data Analyst Skill Path
-**Issued by:** Udemy 
+**Issued by:** Udemy
 **Certified To:** Vishal Raj  
 **Completion Date:** May 8, 2025 
 
